@@ -2,7 +2,7 @@
 # Second-hand store
 
 ## 📃 General description
-this is a MERN stack application designed for anyone interested in selling their second-hand item.
+This is a MERN stack application designed for anyone interested in selling their second-hand item.
 
 
 
