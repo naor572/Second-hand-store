@@ -13,7 +13,8 @@ This is a MERN stack application designed for anyone interested in selling their
 * Remain logged-in while refresh with JWT token and Local Storage.
 * Users can purchase items and add to the shopping cart.
 * Users can edit/delete their own items.
-* users can like items
+* Users can like items
+* Pagination
 
 
 ## Tools
